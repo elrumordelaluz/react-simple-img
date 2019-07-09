@@ -2,7 +2,7 @@
     <a href="https://react-simple-img.now.sh"><img width="180" src="https://raw.githubusercontent.com/bluebill1049/react-simple-img/master/example/src/logo.png" alt="React Simple Img Logo - Animated lazy loading - on demand" /></a>
 </p>
 
-# [React Simple Img](https://react-simple-img.now.sh)
+<h1 align="center"><a href="https://react-simple-img.now.sh">React Simple Img</a></h1>
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=React+Lazy+load+images+with+Intersection+Observer+API&url=https://github.com/bluebill1049/react-simple-img)&nbsp;[![CircleCI](https://circleci.com/gh/bluebill1049/react-simple-img.svg?style=svg)](https://circleci.com/gh/bluebill1049/react-simple-img) [![Coverage Status](https://coveralls.io/repos/github/bluebill1049/react-simple-img/badge.svg?branch=master)](https://coveralls.io/github/bluebill1049/react-simple-img?branch=master) [![npm downloads](https://img.shields.io/npm/dm/react-simple-img.svg?style=flat-square)](https://www.npmjs.com/package/react-simple-img)
 [![npm](https://img.shields.io/npm/dt/react-simple-img.svg?style=flat-square)](https://www.npmjs.com/package/react-simple-img)
@@ -83,3 +83,17 @@ Arguments
 
 
      - if you want to log errors in browser console when image fetch failed, then set the value to true.
+
+## Contributors 
+Thanks goes to these wonderful people:
+
+<p float="left">
+    <a href="https://github.com/elrumordelaluz"><img src="https://avatars3.githubusercontent.com/u/784056?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/millette"><img src="https://avatars2.githubusercontent.com/u/50741?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/revskill10"><img src="https://avatars1.githubusercontent.com/u/1390196?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/infernalmaster"><img src="https://avatars3.githubusercontent.com/u/1155618?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/five-zero-four-zero"><img src="https://avatars3.githubusercontent.com/u/6634204?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/DeBaum"><img src="https://avatars0.githubusercontent.com/u/11390506?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/0xflotus"><img src="https://avatars2.githubusercontent.com/u/26602940?s=460&v=4" width="50" height="50" /></a>
+    <a href="https://github.com/yusinto"><img src="https://avatars1.githubusercontent.com/u/1593077?s=460&v=4" width="50" height="50" /></a>
+</p>
